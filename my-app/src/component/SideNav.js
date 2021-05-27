@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faLinkedin,faGithub,faPhone, } from '@fortawesome/free-solid-svg-icons';
+import { fabLinkedin,faGithub,faPhone, } from '@fortawesome/free-solid-svg-icons';
 
 export const SideNav = () => {
     return (
