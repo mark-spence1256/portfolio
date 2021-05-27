@@ -2,7 +2,7 @@ import React from 'react'
 import {Component} from 'react'
 const textArray = ["HTML", "CSS","JAVASCRIPT", "REACT","VUE", "BOOTSTRAP","NODE", "PHP", "TAILWIND","LARAVEL", "MYSQL"];
 
-class Welcome extends Component {
+class Skills extends Component {
   constructor() {
     super();
     this.state = { textIdx: 0 };
