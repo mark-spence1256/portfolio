@@ -18,6 +18,7 @@ export const SideNav = () => {
   <a href="mailto:markspence647@gmail.com">
   < FontAwesomeIcon icon={['fa', 'paper-plane']} />
 </a>
+< FontAwesomeIcon icon={['fa', 'paper-plane']} />
 
 
        
