@@ -13,7 +13,7 @@ export const SideNav = () => {
       
     
   </ul> 
-  <FontAwesomeIcon icon={faThumbsUp} style={color: 'red'} />
+  <FontAwesomeIcon icon={faThumbsUp} style={{color: 'red'}} />
 
         </div>
     )
