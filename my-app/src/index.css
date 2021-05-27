@@ -104,3 +104,26 @@ i:hover{
   font-size: x-large;
   color: red;
   } 
+.workexperince{
+  background-color: #bcbcbc;
+  width: 100%;
+
+}
+ul{
+  list-style-type: none;
+}
+.Project{
+
+    background-color: #bcbcbc;
+    width: 100%;
+}
+.Education{
+
+  background-color: #bcbcbc;
+  width: 100%;
+}
+h3{color: white;}
+p{color: white;}
+li{
+  color: white;
+}

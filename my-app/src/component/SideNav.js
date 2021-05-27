@@ -1,7 +1,5 @@
 import React from 'react'
 
-import { faHeart,faCommentDots,faShareSquare } from "@fortawesome/free-regular-svg-icons";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export const SideNav = () => {
     return (
@@ -15,9 +13,7 @@ export const SideNav = () => {
        
  
   </ul> 
-  <FontAwesomeIcon icon={faHeart}  className="I"/>
-<FontAwesomeIcon icon={faCommentDots} /> 
-<FontAwesomeIcon icon={faShareSquare} />
+
         </div>
     )
 }
