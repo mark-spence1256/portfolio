@@ -17,6 +17,7 @@ function App() {
 
 
 < Welcome />
+<Skills/>
 <Resume />
 
 </div>
