@@ -5,6 +5,7 @@ import file from './file.png';
 import Welcome from './component/Welcome.js'
 import SideNav from './component/SideNav.js'
 import Resume from './component/Resume.js'
+import Skills from './component/Skills.js'
 
 function App() {
   return (
