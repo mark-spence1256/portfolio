@@ -93,11 +93,11 @@ body{
 .project-image:hover{
   transform: scale(1.1);
 }
-i{
+a{
 font-size: x-large;
 color: red;
 }
-i:hover{
+a:hover{
   color: white;
 }
 .I{
