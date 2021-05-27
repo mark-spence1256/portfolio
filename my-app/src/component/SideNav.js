@@ -1,29 +1,18 @@
 import React from 'react'
-
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import 'font-awesome/css/font-awesome.min.css';
 
 export const SideNav = () => {
     return (
         <div>
-           <div className="sidenav">
-       <a href="https://www.linkedin.com/in/mark-spence-7a900617a/">
-           < FontAwesomeIcon icon={['fab', 'linkedin']} />
-           </a>
-       <a href="https://github.com/mark-spence1256">
-            < FontAwesomeIcon icon={['fab', 'github']} />
-       </a>
-       <a href="tel:6475721205">
-       < FontAwesomeIcon icon={['fa', 'phone']} />
-  </a>
-  <a href="mailto:markspence647@gmail.com">
-  < FontAwesomeIcon icon={['fa', 'paper-plane']} />
-</a>
-< FontAwesomeIcon icon={['fa', 'paper-plane']} />
-
-
+           <ul className="sidenav">
+       <li><a href="https://www.linkedin.com/in/mark-spence-7a900617a/"><i class="fab fa-linkedin"></i></a></li>
+       <li><a href="https://github.com/mark-spence1256"><i class="fab fa-github"></i></a></li>
+       <li><a href="tel:647-572-1205"><i class="fas fa-phone"></i></a></li>
+       <li><a href="mailto:markspence647@gmail.com"><i class="fas fa-paper-plane"></i></a></li>
+       <li><a href="Mark Spence Web Developer .pdf"><i class="fas fa-file-pdf"></i></a></li>
        
  
-  </div> 
+  </ul> 
 
         </div>
     )
