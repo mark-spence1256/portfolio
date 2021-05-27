@@ -1,7 +1,7 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faPhone,faPaperPlane } from '@fortawesome/free-solid-svg-icons';
-import {fablinkedin} from '@fortawesome/free-brands-svg-icons';
+
 
 export const SideNav = () => {
     return (
