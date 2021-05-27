@@ -25,8 +25,8 @@ class Skills extends Component {
 
     return (
         <div>
-          <h1 style="color:white ">My skills:</h1>
-            <h1 style="color:red">{skills}</h1>
+          <h1 style={{color:white}}>My skills:</h1>
+            <h1 style={{color:red}}>{skills}</h1>
         </div>
     )
 }
