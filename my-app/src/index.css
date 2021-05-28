@@ -128,5 +128,5 @@ li{
   color: white;
 }
 .sidenav{
-  display: inline-block;
+  display: flex;
 }
