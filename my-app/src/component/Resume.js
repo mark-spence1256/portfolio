@@ -29,7 +29,7 @@ const Resume = () => {
                <hr></hr>
                <div className="workexperince">
                    <h3>Work Experince</h3>
-               <h3>Matrex Window System Inc, Toronto,On — Line Production Worker  2021- 2021</h3>
+               <h3>Matrex Window System Inc, Toronto,On — Widnow Assemler  2021- 2021</h3>
 <p> produce and assemble products in factories. They operate and maintain machinery, ensure production
 standards are met, finalize products, and prepare them for shipping.</p>
 <h3>Del’s Pastry, Toronto,On — Line Production Worker  2021-2021 </h3>
