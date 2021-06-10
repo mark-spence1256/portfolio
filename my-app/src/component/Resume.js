@@ -30,8 +30,7 @@ const Resume = () => {
                <div className="workexperince">
                    <h3>Work Experince</h3>
                <h3>Matrex Window System Inc, Toronto,On — Widnow Assemler  2021- 2021</h3>
-<p> produce and assemble products in factories. They operate and maintain machinery, ensure production
-standards are met, finalize products, and prepare them for shipping.</p>
+<p> Performs any combination of following assembly line tasks to assemble structural parts, such as metal sashes, doors, windows, and window screens, using handtools and portable power tools: Assembles frame components, such as tops, bottoms, sides, panels, and molding in jigs or fixtures.</p>
 <h3>Del’s Pastry, Toronto,On — Line Production Worker  2021-2021 </h3>
 <p> produce and assemble products in factories. They operate and maintain machinery, ensure production
 standards are met, finalize products, and prepare them for shipping.</p>
