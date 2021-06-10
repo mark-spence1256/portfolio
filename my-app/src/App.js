@@ -6,6 +6,7 @@ import Welcome from './component/Welcome.js'
 import SideNav from './component/SideNav.js'
 import Resume from './component/Resume.js'
 import Skills from './component/Skills.js'
+import Headline from './component/Headline.js'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
 
 < Welcome />
 <Skills/>
+<Headline/>
 <Resume />
 
 </div>
