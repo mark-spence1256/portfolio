@@ -113,7 +113,7 @@ ul{
   list-style-type: none;
 }
 .jobdescription{
-  display: list-item;
+  list-style-type: disc;
   color: #212121;
 }
 .Project{
