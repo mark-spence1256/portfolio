@@ -38,7 +38,7 @@ const Resume = () => {
 <li>Builds websites to client specifications by writing code, designing pages and widgets, and incorporating graphics and video element
 </li>
 </ul>
-<h3>Westside Cafe, Toronto,On — Line Production Worker  2021-2021 </h3>
+<h3>Westside Cafe, Toronto,On — Administrative Assistant  2021-2021 </h3>
 <ul className="jobdescription">
 <li>Greeting visitors and answering phone calls.
 </li>
@@ -48,7 +48,7 @@ const Resume = () => {
 </li>
 </ul>
 
-<h3>Shoppers Drug Mart, Toronto,ON — Line Production Worker  2020- 2020</h3>
+<h3>Shoppers Drug Mart, Toronto,ON — Merchandiser  2020- 2020</h3>
 <ul className="jobdescription">
 <li>Removes items from stock to fill orders from authorized requisitions. 
 </li>
