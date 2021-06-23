@@ -113,7 +113,7 @@ ul{
   list-style-type: none;
 }
 .jobdescription{
-  list-style-type: circle;
+  display: list-item;
   color: #212121;
 }
 .Project{
