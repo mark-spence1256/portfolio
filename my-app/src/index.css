@@ -112,6 +112,9 @@ a:hover{
 ul{
   list-style-type: none;
 }
+.jobdescription{
+  list-style-type: circle;
+}
 .Project{
 
     background-color: #bcbcbc;
