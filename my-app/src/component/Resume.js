@@ -29,19 +29,35 @@ const Resume = () => {
                <hr></hr>
                <div className="workexperince">
                    <h3>Work Experince</h3>
-               <h3>Matrex Window System Inc, Toronto,On — Widnow Assemler  2021- 2021</h3>
-<p> Performs any combination of following assembly line tasks to assemble structural parts, such as metal sashes, doors, windows, and window screens, using handtools and portable power tools: Assembles frame components, such as tops, bottoms, sides, panels, and molding in jigs or fixtures.</p>
+               <h3>Cascais Bakery, Toronto,On — Freelancer Web Developer  2021- 2021</h3>
+<ul className="jobdescription">
+<li>Meets with clients and colleagues to determine the needs website needs and follows up with regular conversations and updates
+</li>
+<li>Creates website layouts with computer or handmade sketches to organise information and allow for intuitive usage
+</li>
+<li>Builds websites to client specifications by writing code, designing pages and widgets, and incorporating graphics and video element
+</li>
+</ul>
 <h3>Del’s Pastry, Toronto,On — Line Production Worker  2021-2021 </h3>
-<p> produce and assemble products in factories. They operate and maintain machinery, ensure production
-standards are met, finalize products, and prepare them for shipping.</p>
+<ul className="jobdescription">
+<li>Greeting visitors and answering phone calls.
+</li>
+<li> Making Adjustments to staff schedules and updating the master calendar. 
+</li>
+<li>Coordinating staff meeting
+</li>
+</ul>
 
 <h3>ADP Direct Poultry, Toronto,ON — Line Production Worker  2020- 2020</h3>
-<p>produce and assemble products in factories. They operate and maintain machinery, ensure production
-standards are met, finalize products, and prepare them for shipping.</p>
-<h3>Shoppers Drug Mart, Toronto,ON — Merchandiser  2019- 2020</h3>
-<p> Removes items from stock to fill orders from authorized requisitions. Delivers and/or may pick up stock
-or other items to departments or offices concerned. Assists in counting and recording inventory. Assists
-in keeping stockroom, warehouse and loading area in a clean and orderly condition. </p>
+<ul className="jobdescription">
+<li>Removes items from stock to fill orders from authorized requisitions. 
+</li>
+<li> Delivers and/or may pick up stock or other items to departments or offices concerned. 
+</li>
+<li>Delivers and/or may pick up stock or other items to departments or offices concerned. 
+</li>
+</ul>
+
                    </div>
                    <hr></hr>
                    <div className="Education">
