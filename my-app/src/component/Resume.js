@@ -40,7 +40,8 @@ const Resume = () => {
 </ul>
 <h3>Del's Pastry, Toronto,On — Line Production Worker  2021-2021 </h3>
 <ul className="jobdescription">
-<li>
+<li>Operate production equipment
+
 </li>
 <li>Maintain the warehouse’s machines 
 </li>
