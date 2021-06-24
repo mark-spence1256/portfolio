@@ -38,15 +38,16 @@ const Resume = () => {
 <li>Builds websites to client specifications by writing code, designing pages and widgets, and incorporating graphics and video element
 </li>
 </ul>
-<h3>Westside Cafe, Toronto,On — Administrative Assistant  2021-2021 </h3>
+<h3>Del's Pastry, Toronto,On — Line Production Worker  2021-2021 </h3>
 <ul className="jobdescription">
-<li>Greeting visitors and answering phone calls.
+<li>
 </li>
-<li> Making Adjustments to staff schedules and updating the master calendar. 
+<li>Maintain the warehouse’s machines 
 </li>
-<li>Coordinating staff meeting
+<li>Assemble machinery parts 
 </li>
 </ul>
+
 
 <h3>Shoppers Drug Mart, Toronto,ON — Merchandiser  2020- 2020</h3>
 <ul className="jobdescription">
@@ -54,9 +55,19 @@ const Resume = () => {
 </li>
 <li> Delivers and/or may pick up stock or other items to departments or offices concerned. 
 </li>
-<li>Delivers and/or may pick up stock or other items to departments or offices concerned. 
+<li>
 </li>
 </ul>
+<h3>Kitchen Stuff Plus, Toronto,On — Sales Assoiciate  2019-2019 </h3>
+<ul className="jobdescription">
+<li>Removes items from stock to fill orders from authorized requisitions. 
+</li>
+<li> Delivers and/or may pick up stock or other items to departments or offices concerned. 
+</li>
+<li>
+</li>
+</ul>
+
 
                    </div>
                    <hr></hr>
