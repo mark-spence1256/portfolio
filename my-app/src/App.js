@@ -7,10 +7,13 @@ import SideNav from './component/SideNav.js'
 import Resume from './component/Resume.js'
 import Skills from './component/Skills.js'
 import Headline from './component/Headline.js'
+import {Helmet} from "react-helmet";
 
 function App() {
   return (
+
     <div className="App">
+      <Helmet />
 <div className="container">
 
     <h2 className="firstname">Mark</h2>
