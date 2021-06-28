@@ -56,7 +56,7 @@ const Resume = () => {
 </li>
 <li> Delivers and/or may pick up stock or other items to departments or offices concerned. 
 </li>
-<li>
+<li>Greet customers, answer their queries, and assist them when selecting and finding merchandise
 </li>
 </ul>
 <h3>Kitchen Stuff Plus, Toronto,On — Sales Assoiciate  2019-2019 </h3>
@@ -65,7 +65,7 @@ const Resume = () => {
 </li>
 <li> Delivers and/or may pick up stock or other items to departments or offices concerned. 
 </li>
-<li>
+<li>Greet customers, answer their queries, and assist them when selecting and finding merchandise
 </li>
 </ul>
 
